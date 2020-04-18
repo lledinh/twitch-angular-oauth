@@ -1,0 +1,7 @@
+.btn-login {
+  background: url('/assets/img/twitch_connect.png');
+  height: 80px;
+  width: 320px;
+  position: absolute;
+  top: 311px;
+}
